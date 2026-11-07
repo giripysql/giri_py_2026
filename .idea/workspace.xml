@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f354720-8d1e-4da0-86bb-1207641c2d72" name="Changes" comment="giri py file adding" />
+    <list default="true" id="6f354720-8d1e-4da0-86bb-1207641c2d72" name="Changes" comment="giri py file adding">
+      <change beforePath="$PROJECT_DIR$/src/data_validations/not_null_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_validations/not_null_validation.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,31 +27,31 @@
     &quot;assignee&quot;: &quot;giri66&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ksreenivasulu443/git_training_july_2026.git&quot;,
-    &quot;accountId&quot;: &quot;e3383bf8-90d7-4afe-a3cd-5790744623ca&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/giri66/git_py_206.git",
+    "accountId": "e3383bf8-90d7-4afe-a3cd-5790744623ca"
   }
-}</component>
+}]]></component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0001326589517234" />
-      <entry key="MS500" value="1.1862272469644084" />
-      <entry key="S2" value="2.3153798478896954" />
-      <entry key="S5" value="3.4346819685857266" />
-      <entry key="S10" value="4.0906119515574435" />
-      <entry key="S30" value="4.6622667402956885" />
-      <entry key="S60" value="4.8263221643538845" />
-      <entry key="M2" value="4.91191817344479" />
-      <entry key="M5" value="4.964463669698436" />
-      <entry key="M10" value="4.982180785907868" />
-      <entry key="M15" value="4.988109146210233" />
-      <entry key="M30" value="4.994048875835949" />
-      <entry key="H1" value="4.997023012022377" />
-      <entry key="H2" value="4.998511149339793" />
-      <entry key="H4" value="4.999255485477348" />
-      <entry key="D1" value="4.9998759018562735" />
-      <entry key="W1" value="4.999982271390298" />
+      <entry key="MS100" value="1.0000003664195969" />
+      <entry key="MS500" value="1.051645778885888" />
+      <entry key="S2" value="1.5772803988963928" />
+      <entry key="S5" value="2.5006676182523524" />
+      <entry key="S10" value="3.720116287178593" />
+      <entry key="S30" value="6.138674862595113" />
+      <entry key="S60" value="7.334075602211718" />
+      <entry key="M2" value="8.096204528185776" />
+      <entry key="M5" value="8.619637767687372" />
+      <entry key="M10" value="8.806509617522256" />
+      <entry key="M15" value="8.87025802801393" />
+      <entry key="M30" value="8.935355969147945" />
+      <entry key="H1" value="9.022259947806662" />
+      <entry key="H2" value="9.507922002224173" />
+      <entry key="H4" value="10.61091544206387" />
+      <entry key="D1" value="13.142010703073316" />
+      <entry key="W1" value="13.867357260611906" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -71,23 +73,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.5705014168869871" />
-      <entry key="MS500" value="1.0762173349214676" />
-      <entry key="S2" value="2.276273813785913" />
-      <entry key="S5" value="3.4100661464613444" />
-      <entry key="S10" value="4.074888328515646" />
-      <entry key="S30" value="4.655917040187413" />
-      <entry key="S60" value="4.822979770920254" />
-      <entry key="M2" value="4.910202582404838" />
-      <entry key="M5" value="4.963766441830015" />
-      <entry key="M10" value="4.981830311316083" />
-      <entry key="M15" value="4.987875080848623" />
-      <entry key="M30" value="4.993931634797294" />
-      <entry key="H1" value="4.996964339311928" />
-      <entry key="H2" value="4.99848179992406" />
-      <entry key="H4" value="4.999240807502764" />
-      <entry key="D1" value="4.999873455073329" />
-      <entry key="W1" value="4.999981921838762" />
+      <entry key="MS100" value="0.7737827923405433" />
+      <entry key="MS500" value="0.9994741068692192" />
+      <entry key="S2" value="1.5586233305965198" />
+      <entry key="S5" value="2.4892887629915776" />
+      <entry key="S10" value="3.71098904005993" />
+      <entry key="S30" value="6.132568992382628" />
+      <entry key="S60" value="7.330161810894705" />
+      <entry key="M2" value="8.093962720226322" />
+      <entry key="M5" value="8.618661284812111" />
+      <entry key="M10" value="8.806007009481279" />
+      <entry key="M15" value="8.869919678980681" />
+      <entry key="M30" value="8.93518512033629" />
+      <entry key="H1" value="9.022173465832095" />
+      <entry key="H2" value="9.507875900181077" />
+      <entry key="H4" value="10.610889150149248" />
+      <entry key="D1" value="13.142005082072004" />
+      <entry key="W1" value="13.867356406891242" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -137,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1793662076372</updated>
       <workItem from="1793662078023" duration="2046000" />
-      <workItem from="1793954542317" duration="6560000" />
+      <workItem from="1793954542317" duration="7038000" />
     </task>
     <task id="LOCAL-00001" summary="giri py file adding">
       <option name="closed" value="true" />
@@ -147,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794007627127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="giri py file adding">
+      <option name="closed" value="true" />
+      <created>1794030849683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1794030849683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

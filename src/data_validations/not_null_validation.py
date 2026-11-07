@@ -13,11 +13,11 @@ def null_value_check(df, not_null_columns, failed_records=5):
 
     start_time = time.perf_counter()
 
-    failures = []
+    failures = []  #List as empty
 
     for column in not_null_columns:
 
-        value_as_string = F.trim(F.col(column).cast("string"))
+        value_as_string = F.trim(F.col(column).cast("string"))  #trim spaces in string value
 
         failing_rows = df.filter(
             F.col(column).isNull()
