@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f354720-8d1e-4da0-86bb-1207641c2d72" name="Changes" comment="giri py file adding" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_COMMITS_CHECK_STRATEGY" value="FETCH" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;giri66&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ksreenivasulu443/git_training_july_2026.git&quot;,
+    &quot;accountId&quot;: &quot;e3383bf8-90d7-4afe-a3cd-5790744623ca&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001326589517234" />
+      <entry key="MS500" value="1.1862272469644084" />
+      <entry key="S2" value="2.3153798478896954" />
+      <entry key="S5" value="3.4346819685857266" />
+      <entry key="S10" value="4.0906119515574435" />
+      <entry key="S30" value="4.6622667402956885" />
+      <entry key="S60" value="4.8263221643538845" />
+      <entry key="M2" value="4.91191817344479" />
+      <entry key="M5" value="4.964463669698436" />
+      <entry key="M10" value="4.982180785907868" />
+      <entry key="M15" value="4.988109146210233" />
+      <entry key="M30" value="4.994048875835949" />
+      <entry key="H1" value="4.997023012022377" />
+      <entry key="H2" value="4.998511149339793" />
+      <entry key="H4" value="4.999255485477348" />
+      <entry key="D1" value="4.9998759018562735" />
+      <entry key="W1" value="4.999982271390298" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.5705014168869871" />
+      <entry key="MS500" value="1.0762173349214676" />
+      <entry key="S2" value="2.276273813785913" />
+      <entry key="S5" value="3.4100661464613444" />
+      <entry key="S10" value="4.074888328515646" />
+      <entry key="S30" value="4.655917040187413" />
+      <entry key="S60" value="4.822979770920254" />
+      <entry key="M2" value="4.910202582404838" />
+      <entry key="M5" value="4.963766441830015" />
+      <entry key="M10" value="4.981830311316083" />
+      <entry key="M15" value="4.987875080848623" />
+      <entry key="M30" value="4.993931634797294" />
+      <entry key="H1" value="4.996964339311928" />
+      <entry key="H2" value="4.99848179992406" />
+      <entry key="H4" value="4.999240807502764" />
+      <entry key="D1" value="4.999873455073329" />
+      <entry key="W1" value="4.999981921838762" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LZWTDo742iHdpalr69QoACz9ti" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "develop__branch",
+    "git.auto.fetch.suggestion.counter": "1",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/garipy/girieal/spy/git_training_july_2026",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f354720-8d1e-4da0-86bb-1207641c2d72" name="Changes" comment="" />
+      <created>1793662076372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793662076372</updated>
+      <workItem from="1793662078023" duration="2046000" />
+      <workItem from="1793954542317" duration="6560000" />
+    </task>
+    <task id="LOCAL-00001" summary="giri py file adding">
+      <option name="closed" value="true" />
+      <created>1794007627126</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794007627127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="giri py file adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="giri py file adding" />
+  </component>
+</project>
